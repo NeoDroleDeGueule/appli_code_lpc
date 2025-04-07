@@ -1,7 +1,7 @@
 {
   "name": "appli_code_lpc",
   "version": "0.1.0",
-  "homepage": "https://sylvain-beaujouan.com/LPC/appli_code_lpc",
+  "homepage": "https://sylvain-beaujouan.com/LPC/DCODE",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
